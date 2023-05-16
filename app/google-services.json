@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1098138430987",
+    "project_id": "phone-care-project",
+    "storage_bucket": "phone-care-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098138430987:android:f89151474608253a34e10e",
+        "android_client_info": {
+          "package_name": "com.example.phonecare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098138430987-1qelnh96qguqfqiacbj76m688d2n7c0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhwiSWbBoCO2XFMSFa9g6SoKPPb-kGBIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098138430987-1qelnh96qguqfqiacbj76m688d2n7c0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
